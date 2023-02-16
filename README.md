@@ -6,6 +6,5 @@ In desktop : ![image](https://user-images.githubusercontent.com/74257697/2193123
 In phones :
 
 ![image](https://user-images.githubusercontent.com/74257697/219312660-3dc16b39-d9d2-4d43-aa76-5e8a8b1f3828.png)
-
-to : ![image](https://user-images.githubusercontent.com/74257697/219312835-4c7418dd-4323-4458-809d-6098ad3fa87b.png)
+![image](https://user-images.githubusercontent.com/74257697/219312835-4c7418dd-4323-4458-809d-6098ad3fa87b.png)
 
